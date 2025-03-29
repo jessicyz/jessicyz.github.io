@@ -104,18 +104,6 @@
       ]
     }
   ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "Mandarin",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
   "projects": [
     {
       "name": "Unannounced Title",
@@ -145,6 +133,18 @@
 	  "endDate": "2020"
     }
   ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "Mandarin",
+      "fluency": "Fluent",
+      "icon": ""
+    }
+  ],
   "interests": [
     {
       "name": "Yarn Crafts",
@@ -168,7 +168,7 @@
     },
 	{
       "name": "Carnivorous Plants",
-      "icon": "fa-solid fa-pagelines",
+      "icon": "fa-solid fa-leaf",
       "keywords": [
         "Pinguiculas",
         "Sundews",

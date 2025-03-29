@@ -1,13 +1,16 @@
 ---
 layout: page
-title: submenus
+title: fun stuff
 nav: true
-nav_order: 8
+nav_order: 3
 dropdown: true
 children:
-  - title: bookshelf
-    permalink: /books/
+  - title: Yarn
+    permalink: /yarn/
   - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: Music
+    permalink: /music/
+  - title: divider
+  - title: Plants
+    permalink: /plants/
 ---
