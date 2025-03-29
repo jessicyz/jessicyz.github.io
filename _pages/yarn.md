@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /yarn.html
+permalink: /yarn/
 title: "Yarn"
 description: "Crochet and Knitting projects"
 redirect: false

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /music.html
+permalink: /music/
 title: "Music"
 description: "Previews of my music"
 redirect: false

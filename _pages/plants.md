@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /plants.html
+permalink: /plants/
 title: "Plants"
 description: "Growing plants collection"
 redirect: false
