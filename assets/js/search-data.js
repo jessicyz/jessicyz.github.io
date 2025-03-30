@@ -30,13 +30,6 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/yarn/";
               },
-            },{id: "dropdown-music",
-              title: "Music",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/music/";
-              },
             },{id: "dropdown-plants",
               title: "Plants",
               description: "",
@@ -396,7 +389,15 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "projects-msg-sphere",
+    },{id: "news-website-has-been-mostly-migrated-still-need-to-add-more-projects-and-new-fun-stuff",
+          title: 'Website has been (mostly) migrated! Still need to add more projects and new...',
+          description: "",
+          section: "News",},{id: "projects-soulfarer",
+          title: 'Soulfarer',
+          description: "USC AGP",
+          section: "Projects",handler: () => {
+              window.location.href = "/Soulfarer/";
+            },},{id: "projects-msg-sphere",
           title: 'MSG Sphere',
           description: "MSG Sphere Studios",
           section: "Projects",handler: () => {
