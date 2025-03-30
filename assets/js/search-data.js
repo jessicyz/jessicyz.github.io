@@ -441,6 +441,16 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-msg-sphere",
+          title: 'MSG Sphere',
+          description: "MSG Sphere Studios",
+          section: "Projects",handler: () => {
+              window.location.href = "/Sphere/";
+            },},{id: "projects-withme",
+          title: 'WithMe',
+          description: "Together Labs",
+          section: "Projects",handler: () => {
+              window.location.href = "/WithMe/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
