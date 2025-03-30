@@ -8,9 +8,6 @@ children:
   - title: Yarn
     permalink: /yarn/
   - title: divider
-  - title: Music
-    permalink: /music/
-  - title: divider
   - title: Plants
     permalink: /plants/
 ---

@@ -14,7 +14,7 @@ permalink: /Sphere/
     </div>
 </div>
 <div class="caption">
-    <a href="https://www.thesphere.com/"> Sphere Studios, Burbank </a>
+    <a href="https://www.thesphere.com/"> MSG Sphere Studios, Burbank </a>
 </div>
 
 
@@ -27,7 +27,6 @@ I worked at Sphere Studios for two years, during which I had the opportunity to 
 <li>Collaborated with venue engineers to integrate audio and haptic responses to player actions</li>
 <li>Tested experimental gameplay mechanics through rapid prototyping</li>
 <li>Assisted in identifying and addressing areas of player confusion and rapidly iterated on feedback</li>
-<li></li>
 </ul>
 
 <b>Other Roles</b>
