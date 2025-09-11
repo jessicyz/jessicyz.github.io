@@ -30,12 +30,12 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/yarn/";
               },
-            },{id: "dropdown-plants",
-              title: "Plants",
+            },{id: "dropdown-daily-doodle",
+              title: "Daily Doodle",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/plants/";
+                window.location.href = "/dailydoodle/";
               },
             },{id: "post-a-post-with-image-galleries",
       
