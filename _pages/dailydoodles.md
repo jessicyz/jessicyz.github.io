@@ -1,0 +1,369 @@
+---
+layout: page
+permalink: /dailydoodle/
+title: "Daily Doodle"
+description: "Learning vector art"
+redirect: false
+---
+
+I make a lot of stickers and pinback buttons. I don't want them getting too pixely so I figured I should learn how to make vectors. It might not be daily, but I will try my best
+
+<!-- yes I know I can json list this, I'll get to it when I get to it -->
+<div class="row mt-3">
+
+
+    <div class="col-md-4 col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/daily_doodle/20251012_Peach.png" 
+            title="October 12, 2025 Peach"
+            class="gallery img-fluid rounded z-depth-1" 
+            zoomable=true 
+        %}
+        <div class="caption">
+        10/12/2025
+        </div>
+    </div>
+    <div class="col-md-4 col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/daily_doodle/20251011_Boonapple.png" 
+            title="October 11, 2025 Boonapple"
+            class="gallery img-fluid rounded z-depth-1" 
+            zoomable=true 
+        %}
+        <div class="caption">
+        10/11/2025
+        </div>
+    </div>
+
+    <div class="col-md-4 col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/daily_doodle/20251010_SolosisCDSticker_1.png" 
+            title="October 10, 2025 Solosis CD Sticker - Shiny"
+            class="gallery img-fluid rounded z-depth-1" 
+            zoomable=true 
+        %}
+        <div class="caption">
+        10/10/2025
+        </div>
+    </div>
+
+    <div class="col-md-4 col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/daily_doodle/20251009_MoonDrink.png" 
+            title="October 9, 2025 Drink"
+            class="gallery img-fluid rounded z-depth-1" 
+            zoomable=true 
+        %}
+        <div class="caption">
+        10/09/2025
+        </div>
+    </div>
+
+    <div class="col-md-4 col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/daily_doodle/20251008_Persimmon.png" 
+            title="October 8, 2025 Persimmon"
+            class="gallery img-fluid rounded z-depth-1" 
+            zoomable=true 
+        %}
+        <div class="caption">
+        10/08/2025
+        </div>
+    </div>
+
+    <div class="col-md-4 col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/daily_doodle/20251007_SolosisCDSticker_0.png" 
+            title="October 7, 2025 Solosis CD Sticker - GooFO/Egg"
+            class="gallery img-fluid rounded z-depth-1" 
+            zoomable=true 
+        %}
+        <div class="caption">
+        10/07/2025
+        </div>
+    </div>
+    
+    <div class="col-md-4 col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/daily_doodle/20251006_Songpyeon.png" 
+            title="October 6, 2025 Songpyeon"
+            class="gallery img-fluid rounded z-depth-1" 
+            zoomable=true 
+        %}
+        <div class="caption">
+        10/06/2025
+        </div>
+    </div>
+
+    <div class="col-md-4 col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/daily_doodle/20251005_Cake.png" 
+            title="October 5, 2025 Cake"
+            class="gallery img-fluid rounded z-depth-1" 
+            zoomable=true 
+        %}
+        <div class="caption">
+        10/05/2025
+        </div>
+    </div>
+
+    <div class="col-md-4 col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/daily_doodle/20251004_FryingPan.png" 
+            title="October 4, 2025 Frying Pan"
+            class="gallery img-fluid rounded z-depth-1" 
+            zoomable=true 
+        %}
+        <div class="caption">
+        10/04/2025
+        </div>
+    </div>
+
+    <div class="col-md-4 col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/daily_doodle/20251003_Gugu_0.png" 
+            title="October 3, 2025 Gugu"
+            class="gallery img-fluid rounded z-depth-1" 
+            zoomable=true 
+        %}
+        <div class="caption">
+        10/03/2025
+        </div>
+    </div>
+
+    <div class="col-md-4 col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/daily_doodle/20251002_Tamagotchi_Sticker_0.png" 
+            title="October 2, 2025 Tamagotchi Sticker"
+            class="gallery img-fluid rounded z-depth-1" 
+            zoomable=true 
+        %}
+        <div class="caption">
+        10/02/2025
+        </div>
+    </div>
+
+     <div class="col-md-4 col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/daily_doodle/20251001_SludgeJar.png" 
+            title="October 1, 2025 Sludge Jar"
+            class="gallery img-fluid rounded z-depth-1" 
+            zoomable=true 
+        %}
+        <div class="caption">
+        10/01/2025
+        </div>
+    </div>
+
+    <div class="col-md-4 col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/daily_doodle/20250930_NintendoDS_Sticker_0.png" 
+            title="September 30, 2025 Nintendo DS Sticker"
+            class="gallery img-fluid rounded z-depth-1" 
+            zoomable=true 
+        %}
+        <div class="caption">
+        09/30/2025
+        </div>
+    </div>
+
+    <div class="col-md-4 col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/daily_doodle/20250928_Ramune.png" 
+            title="September 28, 2025 Cherry Ramune" 
+            class="gallery img-fluid rounded z-depth-1" 
+            zoomable=true 
+        %}
+        <div class="caption">
+        09/28/2025
+        </div>
+    </div>
+
+    <div class="col-md-4 col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/daily_doodle/20250927_DigitalCamera.png" 
+            title="September 27, 2025 Digital Camera" 
+            class="gallery img-fluid rounded z-depth-1" 
+            zoomable=true 
+        %}
+        <div class="caption">
+        09/27/2025
+        </div>
+    </div>
+
+    <div class="col-md-4 col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/daily_doodle/20250926_PinkLemonade.png" 
+            title="September 26, 2025 Pink Lemonade" 
+            class="gallery img-fluid rounded z-depth-1" 
+            zoomable=true 
+        %}
+        <div class="caption">
+        09/26/2025
+        </div>
+    </div>
+
+    <div class="col-md-4 col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/daily_doodle/20250925_JewelPin.png" 
+            title="September 25, 2025 Jewel Pin" 
+            class="gallery img-fluid rounded z-depth-1" 
+            zoomable=true 
+        %}
+        <div class="caption">
+        09/25/2025
+        </div>
+    </div>
+
+    
+    <div class="col-md-4 col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/daily_doodle/20250924_Onigiri.png" 
+            title="September 24, 2025 Onigiri" 
+            class="gallery img-fluid rounded z-depth-1" 
+            zoomable=true 
+        %}
+        <div class="caption">
+        09/24/2025
+        </div>
+    </div>
+    
+    <div class="col-md-4 col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/daily_doodle/20250923_NacreMoonPin.png" 
+            title="September 23, 2025 Nacre Moon Pin" 
+            class="gallery img-fluid rounded z-depth-1" 
+            zoomable=true 
+        %}
+        <div class="caption">
+        09/23/2025
+        </div>
+    </div>
+
+
+    <div class="col-md-4 col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/daily_doodle/20250922_PearlPin.png" 
+            title="September 22, 2025 Pearl Pin" 
+            class="gallery img-fluid rounded z-depth-1" 
+            zoomable=true 
+        %}
+        <div class="caption">
+        09/22/2025
+        </div>
+    </div>
+
+
+    <div class="col-md-4 col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/daily_doodle/20250921_Bunny.png" 
+            title="September 21, 2025 Bunny" 
+            class="gallery img-fluid rounded z-depth-1" 
+            zoomable=true 
+        %}
+        <div class="caption">
+        09/21/2025
+        </div>
+    </div>
+    <div class="col-md-4 col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/daily_doodle/20250920_WafflePin.png" 
+            title="September 20, 2025 Waffle Pin" 
+            class="gallery img-fluid rounded z-depth-1" 
+            zoomable=true 
+        %}
+        <div class="caption">
+        09/20/2025
+        </div>
+    </div>
+
+    <div class="col-md-4 col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/daily_doodle/20250919_PancakePin.png" 
+            title="September 19, 2025 Pancake Pin" 
+            class="gallery img-fluid rounded z-depth-1" 
+            zoomable=true 
+        %}
+        <div class="caption">
+        09/19/2025
+        </div>
+    </div>
+    
+    <div class="col-md-4 col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/daily_doodle/20250918_FlowerCharmPin.png" 
+            title="September 18, 2025 Flower Charm Pin" 
+            class="gallery img-fluid rounded z-depth-1" 
+            zoomable=true 
+        %}
+        <div class="caption">
+        09/18/2025
+        </div>
+    </div>
+
+    <div class="col-md-4 col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/daily_doodle/20250917_ChibiCat.png" 
+            title="September 17, 2025 Chibi Cat" 
+            class="gallery img-fluid rounded z-depth-1" 
+            zoomable=true 
+        %}
+        <div class="caption">
+        09/17/2025
+        </div>
+    </div>
+    
+    <div class="col-md-4 col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/daily_doodle/20250916_LemonPin.png" 
+            title="September 16, 2025 Lemon Pin" 
+            class="gallery img-fluid rounded z-depth-1" 
+            zoomable=true 
+        %}
+        <div class="caption">
+        09/16/2025
+        </div>
+    </div>
+
+    <div class="col-md-4 col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/daily_doodle/20250915_Shampoo.png" 
+            title="September 15, 2025 Shampoo" 
+            class="gallery img-fluid rounded z-depth-1" 
+            zoomable=true 
+        %}
+        <div class="caption">
+        09/15/2025
+        </div>
+    </div>
+
+    <div class="col-md-4 col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/daily_doodle/20250913_MountainScene.png" 
+            title="September 13, 2025 Mountain Scene" 
+            class="gallery img-fluid rounded z-depth-1" 
+            zoomable=true 
+        %}
+        <div class="caption">
+        09/13/2025
+        </div>
+    </div>
+
+    <div class="col-md-4 col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/daily_doodle/20250912_StrawberryBananaMilk.png" 
+            title="September 12, 2025 Strawberry Banana Milk" 
+            class="gallery img-fluid rounded z-depth-1" 
+            zoomable=true 
+        %}
+        <div class="caption">
+        09/12/2025
+        </div>
+    </div>
+
+    <div class="col-md-4 col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/daily_doodle/20250911_SandwichBiscuit.png" 
+            title="September 11, 2025 Sandwich Biscuit" 
+            class="gallery img-fluid rounded z-depth-1" 
+            zoomable=true 
+        %}
+        <div class="caption">
+        09/11/2025
+        </div>
+    </div>
+
+    <div class="col-md-4 col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/daily_doodle/20250910_Potion.png" 
+            title="September 10, 2025 Potion" 
+            class="gallery img-fluid rounded z-depth-1" 
+            zoomable=true 
+        %}
+        <div class="caption">
+        09/10/2025
+        </div>
+    </div>
+
+    <div class="col-md-4 col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/daily_doodle/20250909_Watermelon.png" 
+            title="September 9, 2025 Watermelon" 
+            class="gallery img-fluid rounded z-depth-1" 
+            zoomable=true
+
+        %}
+        <div class="caption">
+        09/09/2025
+        </div>
+    </div>
+
+</div>
