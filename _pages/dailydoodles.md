@@ -13,6 +13,17 @@ I make a lot of stickers and pinback buttons. I don't want them getting too pixe
 
 
     <div class="col-md-4 col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/daily_doodle/20251013_DancerushLabel.png" 
+            title="October 13, 2025 Dancerush Label"
+            class="gallery img-fluid rounded z-depth-1" 
+            zoomable=true 
+        %}
+        <div class="caption">
+        10/13/2025
+        </div>
+    </div>
+
+    <div class="col-md-4 col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/daily_doodle/20251012_Peach.png" 
             title="October 12, 2025 Peach"
             class="gallery img-fluid rounded z-depth-1" 
