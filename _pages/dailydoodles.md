@@ -13,8 +13,20 @@ I make a lot of stickers and pinback buttons. I don't want them getting too pixe
 
 
     <div class="col-md-4 col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/daily_doodle/20251017_MetagrossitePinPrintTest.png" 
+            title="October 17, 2025 Metagrossite Pin Print Test"
+            class="gallery img-fluid rounded z-depth-1" 
+            zoomable=true 
+        %}
+        <div class="caption">
+        10/17/2025
+        </div>
+    </div>
+    
+
+    <div class="col-md-4 col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/daily_doodle/20251016_RayquazaShuffleSticker.png" 
-            title="October 15, 2025 Rayquaza from Shuffle Sticker"
+            title="October 16, 2025 Rayquaza from Shuffle Sticker"
             class="gallery img-fluid rounded z-depth-1" 
             zoomable=true 
         %}
