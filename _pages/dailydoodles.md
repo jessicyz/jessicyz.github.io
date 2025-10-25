@@ -11,6 +11,29 @@ I make a lot of stickers and pinback buttons. I don't want them getting too pixe
 <!-- yes I know I can json list this, I'll get to it when I get to it -->
 <div class="row mt-3">
 
+  <div class="col-md-4 col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/daily_doodle/20251024_Avocado_1.png" 
+            title="October 24, 2025 Avocado part 2"
+            class="gallery img-fluid rounded z-depth-1" 
+            zoomable=true 
+        %}
+        <div class="caption">
+        10/24/2025
+        </div>
+    </div>
+    
+
+    <div class="col-md-4 col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/daily_doodle/20251023_Avocado_0.png" 
+            title="October 23, 2025 Avocado part 1"
+            class="gallery img-fluid rounded z-depth-1" 
+            zoomable=true 
+        %}
+        <div class="caption">
+        10/23/2025
+        </div>
+    </div>
+    
 
     <div class="col-md-4 col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/daily_doodle/20251022_Pumpkin.png" 
