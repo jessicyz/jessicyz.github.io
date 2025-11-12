@@ -12,6 +12,17 @@ I make a lot of stickers and pinback buttons. I don't want them getting too pixe
 <div class="row mt-3">
 
   <div class="col-md-4 col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/daily_doodle/20251112_GigantamaxGrimmsnarl.png" 
+            title="November 12, 2025 Gigantamax Grimmsnarl Sticker"
+            class="gallery img-fluid rounded z-depth-1" 
+            zoomable=true 
+        %}
+        <div class="caption">
+        11/12/2025
+        </div>
+  </div>
+  
+  <div class="col-md-4 col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/daily_doodle/20251106_PikipekSticker.png" 
             title="November 6, 2025 Pikipek Sticker"
             class="gallery img-fluid rounded z-depth-1" 
@@ -20,7 +31,7 @@ I make a lot of stickers and pinback buttons. I don't want them getting too pixe
         <div class="caption">
         11/06/2025
         </div>
-    </div>
+  </div>
 
   <div class="col-md-4 col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/daily_doodle/20251105_ShinyPikipekShuffleSticker.png" 
@@ -31,7 +42,8 @@ I make a lot of stickers and pinback buttons. I don't want them getting too pixe
         <div class="caption">
         11/05/2025
         </div>
-    </div>
+  </div>
+
   <div class="col-md-4 col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/daily_doodle/20251104_LiteralActualRealLifePieceOfTheSun.png" 
             title="November 4, 2025 Literal Actual Real-Life Piece Of The Sun"
@@ -42,6 +54,7 @@ I make a lot of stickers and pinback buttons. I don't want them getting too pixe
         11/04/2025
         </div>
     </div>
+
   <div class="col-md-4 col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/daily_doodle/20251103_LiteralActualRealLifePieceOfTheMoon.png" 
             title="November 3, 2025 Literal Actual Real-Life Piece Of The Moon"
