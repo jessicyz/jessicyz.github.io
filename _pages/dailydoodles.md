@@ -33,7 +33,6 @@ I make a lot of stickers and pinback buttons. I don't want them getting too pixe
         11/20/2025
         </div>
   </div>
-
   <div class="col-md-4 col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/daily_doodle/20251116_ShinySprigatitoSticker.png" 
             title="November 16, 2025 Shiny Sprigatito Sticker"
