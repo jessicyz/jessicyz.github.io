@@ -373,8 +373,8 @@ ninja.data = [{
           section: "News",},{id: "news-fun-stuff-update",
           title: 'Fun stuff update',
           description: "",
-          section: "News",},{id: "news-2025-11-27-news",
-          title: '2025_11_27_news',
+          section: "News",},{id: "news-made-a-sticker-vending-machine",
+          title: 'Made a Sticker Vending Machine!',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025_11_27_news/";
