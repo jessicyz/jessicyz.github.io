@@ -1,0 +1,23 @@
+{% capture dailyDoodlesJson %}
+{
+  "doodles": [
+    {
+      "path": "assets/img/daily_doodle/20251126_VendingMachineTemplate.png",
+      "date": "2025-11-26",
+      "title": "Sticker Vending Machine Stencils",
+      "comments": "Specifications for my Cricut"
+    },
+    {
+      "path": "assets/img/daily_doodle/20251125_ShinyFlabebeShuffleSticker.png",
+      "date": "2025-11-35",
+      "title": "Shiny Flabebe from Shuffle Sticker",
+      "comments": "From Pokemon Shuffle. Added a flower"
+    },
+    {
+      "path": "assets/img/daily_doodle/20251124_ShinyRookideeSticker.png",
+      "date": "2025-11-24",
+      "title": "Shiny Rookidee Sticker",
+      "comments": "In Pokemon Shuffle style"
+    }
+  ]
+}

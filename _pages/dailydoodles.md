@@ -696,6 +696,7 @@ I make a lot of stickers and pinback buttons. I don't want them getting too pixe
         </div>
     </div>
 
+
     <div class="col-md-4 col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/daily_doodle/20250913_MountainScene.png" 
             title="September 13, 2025 Mountain Scene" 
