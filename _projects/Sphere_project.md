@@ -40,7 +40,7 @@ I worked at Sphere Studios for two years, during which I had the opportunity to 
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/project_images/sphere/THEA_Award.jpg" title="Thea Award for Sphere" class="img-fluid rounded z-depth-1"%}
         <div class="caption">
-        <a href="https://issuu.com/themedentertainmentassociation/docs/the_31st_annual_tea_thea_awards_program/76">31st Annual Thea Award</a>
+        <a href="https://issuu.com/themedentertainmentassociation/docs/the_31st_annual_tea_thea_awards_program/79">31st Annual Thea Award</a>
         </div>
     </div>
     

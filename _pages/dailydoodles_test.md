@@ -9,6 +9,7 @@ redirect: false
 
 Testing new format
 <div class="row mt-3">
+
 {% for i in site.data.dailydoodle.doodles %}
   
   <div class="col-md-4 col-sm-4 mt-3 mt-md-0">
