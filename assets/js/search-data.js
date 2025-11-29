@@ -373,7 +373,12 @@ ninja.data = [{
           section: "News",},{id: "news-fun-stuff-update",
           title: 'Fun stuff update',
           description: "",
-          section: "News",},{id: "projects-soulfarer",
+          section: "News",},{id: "news-2025-11-27-news",
+          title: '2025_11_27_news',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025_11_27_news/";
+            },},{id: "projects-soulfarer",
           title: 'Soulfarer',
           description: "USC AGP",
           section: "Projects",handler: () => {
