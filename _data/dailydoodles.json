@@ -1,23 +1,407 @@
 
 {
-  "doodles": [
-    {
-      "path": "assets/img/daily_doodle/20251126_VendingMachineTemplate.png",
-      "date": "2025-11-26",
-      "title": "Sticker Vending Machine Stencils",
-      "comments": "Specifications for my Cricut"
-    },
-    {
-      "path": "assets/img/daily_doodle/20251125_ShinyFlabebeShuffleSticker.png",
-      "date": "2025-11-35",
-      "title": "Shiny Flabebe from Shuffle Sticker",
-      "comments": "From Pokemon Shuffle. Added a flower"
-    },
-    {
-      "path": "assets/img/daily_doodle/20251124_ShinyRookideeSticker.png",
-      "date": "2025-11-24",
-      "title": "Shiny Rookidee Sticker",
-      "comments": "In Pokemon Shuffle style"
-    }
-  ]
+    "doodles": [
+        {
+            "path": "assets/img/daily_doodle/20251126_VendingMachineTemplate.png",
+            "date": "2025-11-26",
+            "title": "Sticker Vending Machine Stencils",
+            "comments": "Specifications for my Cricut"
+        },
+        {
+            "path": "assets/img/daily_doodle/20251125_ShinyFlabebeShuffleSticker.png",
+            "date": "2025-11-25",
+            "title": "Shiny Flabebe from Shuffle Sticker",
+            "comments": "From Pokemon Shuffle. Added a flower"
+        },
+        {
+            "path": "assets/img/daily_doodle/20251124_ShinyRookideeSticker.png",
+            "date": "2025-11-24",
+            "title": "Shiny Rookidee Sticker",
+            "comments": "In Pokemon Shuffle style"
+        },
+        {
+            "path": "assets/img/daily_doodle/20251123_ShinyJangmoOShuffleSticker.png",
+            "date": "2025-11-23",
+            "title": "Shiny Jangmo-o from Shuffle Sticker",
+            "comments": "From Pokemon Shuffle"
+        },
+        {
+            "path": "assets/img/daily_doodle/20251122_ShinyPawmiSticker.png",
+            "date": "2025-11-22",
+            "title": "Shiny Pawmi Sticker",
+            "comments": "In Pokemon Shuffle style"
+        },
+        {
+            "path": "assets/img/daily_doodle/20251121_ShinyQuaxlySticker.png",
+            "date": "2025-11-21",
+            "title": "Shiny Quaxly Sticker",
+            "comments": "In Pokemon Shuffle style"
+        },
+        {
+            "path": "assets/img/daily_doodle/20251120_ShinyFuecocoSticker.png",
+            "date": "2025-11-20",
+            "title": "Shiny Fuecoco Sticker",
+            "comments": "In Pokemon Shuffle style"
+        },
+        {
+            "path": "assets/img/daily_doodle/20251116_ShinySprigatitoSticker.png",
+            "date": "2025-11-16",
+            "title": "Shiny Sprigatito Sticker",
+            "comments": "In Pokemon Shuffle style"
+        },
+        {
+            "path": "assets/img/daily_doodle/20251115_ShinyShelmetShuffleSticker.png",
+            "date": "2025-11-15",
+            "title": "Shiny Shelmet from Shuffle Sticker",
+            "comments": "From Pokemon Shuffle"
+        },
+        {
+            "path": "assets/img/daily_doodle/20251114_ShinyKarrablastShuffleSticker.png",
+            "date": "2025-11-14",
+            "title": "Shiny Karrablast from Shuffle Sticker",
+            "comments": "From Pokemon Shuffle"
+        },
+        {
+            "path": "assets/img/daily_doodle/20251113_ShinyVanilliteShuffleSticker.png",
+            "date": "2025-11-13",
+            "title": "Shiny Vanillite from Shuffle Sticker",
+            "comments": "From Pokemon Shuffle"
+        },
+        {
+            "path": "assets/img/daily_doodle/20251112_GigantamaxGrimmsnarl.png",
+            "date": "2025-11-12",
+            "title": "Gigantamax Grimmsnarl",
+            "comments": "In Pokemon Shuffle style"
+        },
+        {
+            "path": "assets/img/daily_doodle/20251106_PikipekSticker.png",
+            "date": "2025-11-06",
+            "title": "Pikipek Sticker",
+            "comments": ""
+        },
+        {
+            "path": "assets/img/daily_doodle/20251105_ShinyPikipekShuffleSticker.png",
+            "date": "2025-11-05",
+            "title": "Shiny Pikipek from Shuffle",
+            "comments": "From Pokemon Shuffle"
+        },
+        {
+            "path": "assets/img/daily_doodle/20251104_LiteralActualRealLifePieceOfTheSun.png",
+            "date": "2025-11-04",
+            "title": "Literal Actual Real-Life Piece Of The Sun",
+            "comments": "From Gastronauts on Dropout"
+        },
+        {
+            "path": "assets/img/daily_doodle/20251103_LiteralActualRealLifePieceOfTheMoon.png",
+            "date": "2025-11-03",
+            "title": "Literal Actual Real-Life Piece Of The Moon",
+            "comments": "From Gastronauts on Dropout"
+        },
+        {
+            "path": "assets/img/daily_doodle/20251102_Grookey.png",
+            "date": "2025-11-02",
+            "title": "Grookey",
+            "comments": "In Pokemon Shuffle style. Might redo"
+        },
+        {
+            "path": "assets/img/daily_doodle/20251031_MegaStarmie.png",
+            "date": "2025-10-31",
+            "title": "Mega Starmie",
+            "comments": "Directly from Pokemon Legends ZA Pokedex entry but it is such a vibe"
+        },
+        {
+            "path": "assets/img/daily_doodle/20251030_StrawberryJam.png",
+            "date": "2025-10-30",
+            "title": "Strawberry Jam",
+            "comments": ""
+        },
+        {
+            "path": "assets/img/daily_doodle/20251029_Toaster.png",
+            "date": "2025-10-29",
+            "title": "Toaster",
+            "comments": ""
+        },
+        {
+            "path": "assets/img/daily_doodle/20251028_Toast.png",
+            "date": "2025-10-28",
+            "title": "Toast",
+            "comments": ""
+        },
+        {
+            "path": "assets/img/daily_doodle/20251027_BobaBagLikeWhat.png",
+            "date": "2025-10-27",
+            "title": "Boba Bag, why it is in there idk take it up with the tutorial",
+            "comments": "What the hell even is this. I came across this tutorial cause I wanted to learn more techniques, but what even is this. So I drew it"
+        },
+        {
+            "path": "assets/img/daily_doodle/20251026_GigantamaxShinyGarbodor.png",
+            "date": "2025-10-26",
+            "title": "Gigantamax Shiny Garbodor Sticker",
+            "comments": "A mix of directly from Pokemon Shuffle and drawing in Pokemon Shuffle style"
+        },
+        {
+            "path": "assets/img/daily_doodle/20251025_Pufferfish.png",
+            "date": "2025-10-25",
+            "title": "Pufferfish Plush",
+            "comments": "From Round1. Four of these are looking at me right now"
+        },
+        {
+            "path": "assets/img/daily_doodle/20251024_Avocado_1.png",
+            "date": "2025-10-24",
+            "title": "Avocado part 2",
+            "comments": ""
+        },
+        {
+            "path": "assets/img/daily_doodle/20251023_Avocado_0.png",
+            "date": "2025-10-23",
+            "title": "Avocado part 1",
+            "comments": "Continuing tomorrow"
+        },
+        {
+            "path": "assets/img/daily_doodle/20251022_Pumpkin.png",
+            "date": "2025-10-22",
+            "title": "Pumpkin",
+            "comments": ""
+        },
+        {
+            "path": "assets/img/daily_doodle/20251021_Sakura.png",
+            "date": "2025-10-21",
+            "title": "Sakura",
+            "comments": ""
+        },
+        {
+            "path": "assets/img/daily_doodle/20251019_FrenchBread.png",
+            "date": "2025-10-19",
+            "title": "French Bread",
+            "comments": ""
+        },
+        {
+            "path": "assets/img/daily_doodle/20251018_HawluchaniteAZ.png",
+            "date": "2025-10-18",
+            "title": "Hawluchanite, Mega Stone base updated for AZ",
+            "comments": "New Mega Stone style. I like it!"
+        },
+        {
+            "path": "assets/img/daily_doodle/20251017_MetagrossitePinPrintTest.png",
+            "date": "2025-10-17",
+            "title": "Metagrossite Pin Print Test",
+            "comments": "Test for printing. It needs to be the right size to make for a pin"
+        },
+        {
+            "path": "assets/img/daily_doodle/20251016_RayquazaShuffleSticker.png",
+            "date": "2025-10-16",
+            "title": "Rayquaza from Shuffle Sticker",
+            "comments": "I was redrawing this in order to make a Shiny version, but it turns out there is already a shiny Rayquaza sprite. And thus kicked off me redrawing every Pokemon Shuffle sprite as they come up for Community Days. Whelp."
+        },
+        {
+            "path": "assets/img/daily_doodle/20251015_WaterBottle.png",
+            "date": "2025-10-15",
+            "title": "Water Bottle",
+            "comments": "I want to make a sticker of my water bottle in its cozy and put it on my water bottle"
+        },
+        {
+            "path": "assets/img/daily_doodle/20251014_Koi.png",
+            "date": "2025-10-14",
+            "title": "Koi",
+            "comments": ""
+        },
+        {
+            "path": "assets/img/daily_doodle/20251013_DancerushLabel.png",
+            "date": "2025-10-13",
+            "title": "Dancerush Label",
+            "comments": "For my Round1 cards. A futile effort, because if I do lose my cards, I do not think I will ever see it again. I lost my first Round1 card literally the day I got it, and the bastard that found it immediately used up all of my credits"
+        },
+        {
+            "path": "assets/img/daily_doodle/20251012_Peach.png",
+            "date": "2025-10-12",
+            "title": "Peach",
+            "comments": "I really insisted on keeping it triangles like a real optimized 3D model, but I neglected to make it look like a 3D model to begin with"
+        },
+        {
+            "path": "assets/img/daily_doodle/20251011_Boonapple.png",
+            "date": "2025-10-11",
+            "title": "Boonapple",
+            "comments": "Boonapple from ZZZ. I love these Bangboos. It is so evil of Hoyo to make an entire event just to sell their real life Bangboo gacha. They are so freaking expensive here in the US. Fortunately my mom was in China and so I asked her to get them for me. I have no shame when it comes to literally the cutest things I have ever seen"
+        },
+        {
+            "path": "assets/img/daily_doodle/20251010_SolosisCDSticker_1.png",
+            "date": "2025-10-10",
+            "title": "Shiny Solosis from Shuffle Sticker",
+            "comments": "From Pokemon Shuffle. My first Pokemon Community Day Sticker. I did not really know where I was going with this at the time and now it has taken over my life"
+        },
+        {
+            "path": "assets/img/daily_doodle/20251009_MoonDrink.png",
+            "date": "2025-10-09",
+            "title": "Moon Drink",
+            "comments": ""
+        },
+        {
+            "path": "assets/img/daily_doodle/20251008_Persimmon.png",
+            "date": "2025-10-08",
+            "title": "Persimmon",
+            "comments": ""
+        },
+        {
+            "path": "assets/img/daily_doodle/20251007_SolosisCDSticker_0.png",
+            "date": "2025-10-07",
+            "title": "Egg/GooFO Solosis",
+            "comments": "I originally wanted to make a Goo/UFO Solosis. But it looked kind of Eggy. And so, an EggGooFO"
+        },
+        {
+            "path": "assets/img/daily_doodle/20251006_Songpyeon.png",
+            "date": "2025-10-06",
+            "title": "Songpyeon",
+            "comments": "Happy Midautumn Festival!"
+        },
+        {
+            "path": "assets/img/daily_doodle/20251005_Cake.png",
+            "date": "2025-10-05",
+            "title": "Cake",
+            "comments": "Nicky Day"
+        },
+        {
+            "path": "assets/img/daily_doodle/20251004_FryingPan.png",
+            "date": "2025-10-04",
+            "title": "Frying Pan",
+            "comments": "Nicky Day"
+        },
+        {
+            "path": "assets/img/daily_doodle/20251003_Gugu_0.png",
+            "date": "2025-10-03",
+            "title": "Gugu",
+            "comments": "My pet chicken"
+        },
+        {
+            "path": "assets/img/daily_doodle/20251002_Tamagotchi_Sticker_0.png",
+            "date": "2025-10-02",
+            "title": "Tamagotchi Sticker",
+            "comments": "I intend to make more someday"
+        },
+        {
+            "path": "assets/img/daily_doodle/20251001_SludgeJar.png",
+            "date": "2025-10-01",
+            "title": "Sludge Jar",
+            "comments": ""
+        },
+        {
+            "path": "assets/img/daily_doodle/20250930_NintendoDS_Sticker_0.png",
+            "date": "2025-09-30",
+            "title": "Nintendo DS Sticker",
+            "comments": "I intend to make more someday"
+        },
+        {
+            "path": "assets/img/daily_doodle/20250928_Ramune.png",
+            "date": "2025-09-28",
+            "title": "Cherry Ramune",
+            "comments": ""
+        },
+        {
+            "path": "assets/img/daily_doodle/20250927_DigitalCamera.png",
+            "date": "2025-09-27",
+            "title": "Digital Camera",
+            "comments": ""
+        },
+        {
+            "path": "assets/img/daily_doodle/20250926_PinkLemonade.png",
+            "date": "2025-09-26",
+            "title": "Pink Lemonade",
+            "comments": ""
+        },
+        {
+            "path": "assets/img/daily_doodle/20250925_JewelPin.png",
+            "date": "2025-09-25",
+            "title": "Jewel Pin",
+            "comments": "Part of my project to stickpocket pins"
+        },
+        {
+            "path": "assets/img/daily_doodle/20250924_Onigiri.png",
+            "date": "2025-09-24",
+            "title": "Onigiri",
+            "comments": ""
+        },
+        {
+            "path": "assets/img/daily_doodle/20250923_NacreMoonPin.png",
+            "date": "2025-09-23",
+            "title": "Nacre Moon Pin",
+            "comments": "Part of my project to stickpocket pins"
+        },
+        {
+            "path": "assets/img/daily_doodle/20250922_PearlPin.png",
+            "date": "2025-09-22",
+            "title": "Pearl Pin",
+            "comments": "Part of my project to stickpocket pins"
+        },
+        {
+            "path": "assets/img/daily_doodle/20250921_Bunny.png",
+            "date": "2025-09-21",
+            "title": "Bunny",
+            "comments": ""
+        },
+        {
+            "path": "assets/img/daily_doodle/20250920_WafflePin.png",
+            "date": "2025-09-20",
+            "title": "Waffle Pin",
+            "comments": "Part of my project to stickpocket pins"
+        },
+        {
+            "path": "assets/img/daily_doodle/20250919_PancakePin.png",
+            "date": "2025-09-19",
+            "title": "Pancake Pin",
+            "comments": "Part of my project to stickpocket pins"
+        },
+        {
+            "path": "assets/img/daily_doodle/20250918_FlowerCharmPin.png",
+            "date": "2025-09-18",
+            "title": "Flower Charm Pin",
+            "comments": "Part of my project to stickpocket pins"
+        },
+        {
+            "path": "assets/img/daily_doodle/20250917_ChibiCat.png",
+            "date": "2025-09-17",
+            "title": "Chibi Cat",
+            "comments": ""
+        },
+        {
+            "path": "assets/img/daily_doodle/20250916_LemonPin.png",
+            "date": "2025-09-16",
+            "title": "Lemon Pin",
+            "comments": ""
+        },
+        {
+            "path": "assets/img/daily_doodle/20250915_Shampoo.png",
+            "date": "2025-09-15",
+            "title": "Shampoo",
+            "comments": ""
+        },
+        {
+            "path": "assets/img/daily_doodle/20250913_MountainScene.png",
+            "date": "2025-09-13",
+            "title": "Mountain Scene",
+            "comments": "Happy Birthday Albedo"
+        },
+        {
+            "path": "assets/img/daily_doodle/20250912_StrawberryBananaMilk.png",
+            "date": "2025-09-12",
+            "title": "Strawberry Banana Milk",
+            "comments": ""
+        },
+        {
+            "path": "assets/img/daily_doodle/20250911_SandwichBiscuit.png",
+            "date": "2025-09-11",
+            "title": "Sandwich Biscuit",
+            "comments": ""
+        },
+        {
+            "path": "assets/img/daily_doodle/20250910_Potion.png",
+            "date": "2025-09-10",
+            "title": "Potion",
+            "comments": ""
+        },
+        {
+            "path": "assets/img/daily_doodle/20250909_Watermelon.png",
+            "date": "2025-09-09",
+            "title": "Watermelon",
+            "comments": "I was following an art tutorial with friends. And so... this"
+        }
+    ]
 }

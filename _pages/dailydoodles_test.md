@@ -7,6 +7,7 @@ redirect: false
 ---
 
 
-Testing new format
+Testing new format 7
+
 
 {% include dailydoodles.liquid %}
