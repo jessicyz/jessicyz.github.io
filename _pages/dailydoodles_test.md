@@ -13,7 +13,7 @@ Testing new format
   
   <div class="col-md-4 col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path=i.path
-            title={{ i.date | date: "%b %d, %Y" }} + " " + {{i.title}}
+            title= {{i.title}}
             class="gallery img-fluid rounded z-depth-1" 
             zoomable=true 
         %}
