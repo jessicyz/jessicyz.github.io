@@ -1,4 +1,4 @@
-{% capture dailyDoodlesJson %}
+
 {
   "doodles": [
     {
