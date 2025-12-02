@@ -378,6 +378,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025_11_27_news/";
+            },},{id: "news-2025-12-01-news",
+          title: '2025_12_01_news',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025_12_01_news%20/";
             },},{id: "projects-soulfarer",
           title: 'Soulfarer',
           description: "USC AGP",
