@@ -3,6 +3,12 @@
     "doodles": [
 
         {
+            "path": "assets/img/daily_doodle/20251203_ShinyGrookeySticker.png",
+            "date": "2025-12-03",
+            "title": "Shiny Grookey Sticker",
+            "comments": "In Pokemon Shuffle style. Remade from the previous version"
+        },
+		{
             "path": "assets/img/daily_doodle/20251202_ShinyAlolanVulpixShuffleSticker.png",
             "date": "2025-12-02",
             "title": "Shiny Alolan Vulpix from Shuffle Sticker",
