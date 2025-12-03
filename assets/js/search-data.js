@@ -378,8 +378,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025_11_27_news/";
-            },},{id: "news-2025-12-01-news",
-          title: '2025_12_01_news',
+            },},{id: "news-twinkle-kuuchuusen-chiptune-cover-release",
+          title: 'Twinkle Kuuchuusen Chiptune Cover Release',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025_12_01_news%20/";
