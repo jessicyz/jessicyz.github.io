@@ -383,6 +383,16 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025_12_01_news%20/";
+            },},{id: "projects-lincoln",
+          title: 'Lincoln',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/Lincoln/";
+            },},{id: "projects-running-in-a-dungeon",
+          title: 'Running (in) a Dungeon',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/RunningInADungeon/";
             },},{id: "projects-soulfarer",
           title: 'Soulfarer',
           description: "USC AGP",
@@ -393,6 +403,11 @@ ninja.data = [{
           description: "MSG Sphere Studios",
           section: "Projects",handler: () => {
               window.location.href = "/Sphere/";
+            },},{id: "projects-terriblemon-pokedex",
+          title: 'Terriblemon Pokedex',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/Terriblemon/";
             },},{id: "projects-withme",
           title: 'WithMe',
           description: "Together Labs",
