@@ -3,6 +3,12 @@
     "doodles": [
 
         {
+            "path": "assets/img/daily_doodle/20251204_ShinyScorbunnySticker.png",
+            "date": "2025-12-04",
+            "title": "Shiny Scorbunny Sticker",
+            "comments": "In Pokemon Shuffle style"
+        },
+        {
             "path": "assets/img/daily_doodle/20251203_ShinyGrookeySticker.png",
             "date": "2025-12-03",
             "title": "Shiny Grookey Sticker",
