@@ -3,6 +3,12 @@
     "doodles": [
 
         {
+            "path": "assets/img/daily_doodle/20251209_Muffin.png",
+            "date": "2025-12-09",
+            "title": "Muffin",
+            "comments": ""
+        },
+        {
             "path": "assets/img/daily_doodle/20251208_Takoyaki.png",
             "date": "2025-12-08",
             "title": "Takoyaki",
