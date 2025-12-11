@@ -3,6 +3,12 @@
     "doodles": [
 
         {
+            "path": "assets/img/daily_doodle/20251210_KoreanDaikonRadish.png",
+            "date": "2025-12-10",
+            "title": "Korean Daikon Radish",
+            "comments": ""
+        },
+        {
             "path": "assets/img/daily_doodle/20251209_Muffin.png",
             "date": "2025-12-09",
             "title": "Muffin",
