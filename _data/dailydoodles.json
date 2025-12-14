@@ -3,6 +3,12 @@
     "doodles": [
 
         {
+            "path": "assets/img/daily_doodle/20251213_PeachJelly.png",
+            "date": "2025-12-13",
+            "title": "Peach Jelly",
+            "comments": ""
+        },
+        {
             "path": "assets/img/daily_doodle/20251212_ShinyPiplupShuffleSticker.png",
             "date": "2025-12-12",
             "title": "Shiny Piplup from Shuffle Sticker",
