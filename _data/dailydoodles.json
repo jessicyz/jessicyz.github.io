@@ -3,6 +3,12 @@
     "doodles": [
 
         {
+            "path": "assets/img/daily_doodle/20251215_MyWaterBottle.png",
+            "date": "2025-12-15",
+            "title": "My water bottle",
+            "comments": "A sticker of my water bottle specifically. Yes I will put it on there"
+        },
+        {
             "path": "assets/img/daily_doodle/20251213_PeachJelly.png",
             "date": "2025-12-13",
             "title": "Peach Jelly",
