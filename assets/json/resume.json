@@ -107,13 +107,7 @@
         }
     ],
     "projects": [
-        {
-            "name": "Unannounced Title",
-            "summary": "Collaboration with Small Loan Studio on their upcoming visual novel",
-            "highlights": [ "Unity", "Naninovel" ],
-            "startDate": "2025",
-            "url": "https://smallloanstudio.itch.io/"
-        },
+
         {
             "name": "Enstars KOR Efficiency Calculator Translator and Autopopulator",
             "summary": "Creating unofficial addons to the unofficial Ensemble Stars Team Efficiency Calculator",
