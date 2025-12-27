@@ -107,7 +107,13 @@
         }
     ],
     "projects": [
-
+        {
+            "name": "Red Rain",
+            "summary": "Collaboration with Small Loan Studio on their upcoming action RPG",
+            "highlights": [ "Solarus", "Lua" ],
+            "startDate": "2025",
+            "url": "https://store.steampowered.com/app/4087210/Red_Rain/"
+        },
         {
             "name": "Enstars KOR Efficiency Calculator Translator and Autopopulator",
             "summary": "Creating unofficial addons to the unofficial Ensemble Stars Team Efficiency Calculator",
