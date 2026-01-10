@@ -1,7 +1,12 @@
 
 {
     "doodles": [
-		
+		{
+            "path": "assets/img/daily_doodle/20260109_PokemonGoBestBuddyRibbon.png",
+            "date": "2026-01-09",
+            "title": "Pokemon Go Best Buddy Ribbon",
+            "comments": ""
+        },
         {
             "path": "assets/img/daily_doodle/20260108_GastronautsHamburgerHelper.png",
             "date": "2026-01-08",
