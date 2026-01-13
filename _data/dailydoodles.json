@@ -2,6 +2,12 @@
 {
     "doodles": [
 		{
+            "path": "assets/img/daily_doodle/20260113_StrawberryTeapot.png",
+            "date": "2026-01-13",
+            "title": "Strawberry Teapot",
+            "comments": ""
+        },
+		{
             "path": "assets/img/daily_doodle/20260109_PokemonGoBestBuddyRibbon.png",
             "date": "2026-01-09",
             "title": "Pokemon Go Best Buddy Ribbon",
