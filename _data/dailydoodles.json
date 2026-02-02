@@ -2,6 +2,12 @@
 {
     "doodles": [
 		{
+            "path": "assets/img/daily_doodle/20260202_Nisepanda.png",
+            "date": "2026-02-02",
+            "title": "Nisepanda",
+            "comments": "From Senyuu"
+        },
+		{
             "path": "assets/img/daily_doodle/20260131_KalosTourPins.png",
             "date": "2026-01-31",
             "title": "Kalos Tour pins",
