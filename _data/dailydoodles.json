@@ -2,6 +2,12 @@
 {
     "doodles": [
 		{
+            "path": "assets/img/daily_doodle/20260204_ShinyTinkatinkSticker.png",
+            "date": "2026-02-04",
+            "title": "Shiny Tinkatink Sticker",
+            "comments": "In Pokemon Shuffle style"
+        },
+		{
             "path": "assets/img/daily_doodle/20260202_Nisepanda.png",
             "date": "2026-02-02",
             "title": "Nisepanda",
