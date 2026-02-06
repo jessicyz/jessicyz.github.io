@@ -2,10 +2,16 @@
 {
     "doodles": [
 		{
-            "path": "assets/img/daily_doodle/20260204_ShinyTinkatinkSticker.png",
-            "date": "2026-02-04",
+            "path": "assets/img/daily_doodle/20260205_ShinyTinkatinkSticker.png",
+            "date": "2026-02-05",
             "title": "Shiny Tinkatink Sticker",
-            "comments": "In Pokemon Shuffle style"
+            "comments": ""
+        },
+		{
+            "path": "assets/img/daily_doodle/20260204_TinkatinkSticker.png",
+            "date": "2026-02-04",
+            "title": "Tinkatink Sticker",
+            "comments": "In Pokemon Shuffle style. Shiny looks exactly like the normal version except with a different rattle and chestplate color (not visible in Shuffle style. So I have a different mouth for the 'shiny'"
         },
 		{
             "path": "assets/img/daily_doodle/20260202_Nisepanda.png",
