@@ -2,6 +2,12 @@
 {
     "doodles": [
 		{
+            "path": "assets/img/daily_doodle/20260208_CoffeeCup.png",
+            "date": "2026-02-08",
+            "title": "Coffee Cup",
+            "comments": ""
+        },
+		{
             "path": "assets/img/daily_doodle/20260205_ShinyTinkatinkSticker.png",
             "date": "2026-02-05",
             "title": "Shiny Tinkatink Sticker",
