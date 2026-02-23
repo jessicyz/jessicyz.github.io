@@ -2,6 +2,12 @@
 {
     "doodles": [
 		{
+            "path": "assets/img/daily_doodle/20260222_KalosTour.jpg",
+            "date": "2026-02-22",
+            "title": "Kalos Tour pins and stickers",
+            "comments": "It took so long"
+        },
+		{
             "path": "assets/img/daily_doodle/20260213_FireflyScene.png",
             "date": "2026-02-13",
             "title": "Fireflies scene",
