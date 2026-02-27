@@ -2,9 +2,15 @@
 {
     "doodles": [
 		{
+            "path": "assets/img/daily_doodle/20260226_UltraBall.png",
+            "date": "2026-02-26",
+            "title": "Ultra Ball",
+            "comments": ""
+        },
+		{
             "path": "assets/img/daily_doodle/20260224_GreatBall.png",
-            "date": "2026-02-23",
-            "title": "Pokeball",
+            "date": "2026-02-24",
+            "title": "Great Ball",
             "comments": ""
         },
 		{
