@@ -2,6 +2,12 @@
 {
     "doodles": [
 		{
+            "path": "assets/img/daily_doodle/20260227_MasterBall.png",
+            "date": "2026-02-27",
+            "title": "Master Ball",
+            "comments": ""
+        },
+		{
             "path": "assets/img/daily_doodle/20260226_UltraBall.png",
             "date": "2026-02-26",
             "title": "Ultra Ball",
