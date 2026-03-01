@@ -2,6 +2,12 @@
 {
     "doodles": [
 		{
+            "path": "assets/img/daily_doodle/20260228_PokeballFrameSticker.png",
+            "date": "2026-02-28",
+            "title": "Pokeball Frame Sticker",
+            "comments": ""
+        },
+		{
             "path": "assets/img/daily_doodle/20260227_MasterBall.png",
             "date": "2026-02-27",
             "title": "Master Ball",
