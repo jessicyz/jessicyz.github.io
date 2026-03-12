@@ -2,6 +2,12 @@
 {
     "doodles": [
 		{
+            "path": "assets/img/daily_doodle/20260311_ShinyDeinoSticker.png",
+            "date": "2026-03-11",
+            "title": "Shiny Deino Sticker",
+            "comments": ""
+        },
+		{
             "path": "assets/img/daily_doodle/20260306_ShinyDeinoShuffleSticker.png",
             "date": "2026-03-06",
             "title": "Shiny Deino from Shuffle Sticker",
