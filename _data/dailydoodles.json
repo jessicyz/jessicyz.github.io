@@ -2,6 +2,12 @@
 {
     "doodles": [
 		{
+            "path": "assets/img/daily_doodle/20260317_ShinyAurorusSticker.png",
+            "date": "2026-03-17",
+            "title": "Shiny Aurorus Sticker",
+            "comments": ""
+        },
+		{
             "path": "assets/img/daily_doodle/20260316_ShinyAurorusShuffleSticker.png",
             "date": "2026-03-16",
             "title": "Shiny Aurorus from Shuffle Sticker",
