@@ -2,6 +2,18 @@
 {
     "doodles": [
 		{
+            "path": "assets/img/daily_doodle/20260410_TomatoPin.png",
+            "date": "2026-04-10",
+            "title": "Tomato Pin",
+            "comments": ""
+        },
+		{
+            "path": "assets/img/daily_doodle/20260327_DittoStickers.png",
+            "date": "2026-03-27",
+            "title": "Ditto Face Stickers",
+            "comments": ""
+        },
+		{
             "path": "assets/img/daily_doodle/20260323_ShinyAmauraShuffleSticker.png",
             "date": "2026-03-23",
             "title": "Shiny Amaura Sticker from Shuffle Sticker",
