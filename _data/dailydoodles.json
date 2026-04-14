@@ -2,6 +2,12 @@
 {
     "doodles": [
 		{
+            "path": "assets/img/daily_doodle/20260413_SpirographPin.png",
+            "date": "2026-04-13",
+            "title": "Spirograph Pin",
+            "comments": ""
+        },
+		{
             "path": "assets/img/daily_doodle/20260412_GeometricLinesPin.png",
             "date": "2026-04-12",
             "title": "Lines Pin",
