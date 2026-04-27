@@ -2,6 +2,12 @@
 {
     "doodles": [
 		{
+            "path": "assets/img/daily_doodle/20260427_SheepScene.png",
+            "date": "2026-04-27",
+            "title": "Sheep",
+            "comments": ""
+        },
+		{
             "path": "assets/img/daily_doodle/20260423_SalamiPin.png",
             "date": "2026-04-23",
             "title": "Salami Pin",
