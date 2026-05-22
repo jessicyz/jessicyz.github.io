@@ -388,6 +388,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/Lincoln/";
+            },},{id: "projects-red-rain",
+          title: 'Red Rain',
+          description: "Small Loan Studio",
+          section: "Projects",handler: () => {
+              window.location.href = "/RedRain/";
             },},{id: "projects-running-in-a-dungeon",
           title: 'Running (in) a Dungeon',
           description: "",
