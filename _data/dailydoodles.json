@@ -2,10 +2,16 @@
 {
     "doodles": [
 		{
+            "path": "assets/img/daily_doodle/20260531_OrangePin.png",
+            "date": "2026-05-31",
+            "title": "Orange Pin",
+            "comments": ""
+        },
+		{
             "path": "assets/img/daily_doodle/20260521_FinderGirlPin.png",
             "date": "2026-05-21",
             "title": "Finder Girl Pin",
-            "comments": "He wants to know if you have games on your phone"
+            "comments": ""
         },
 		{
             "path": "assets/img/daily_doodle/20260514_ShinyFrigibaxSticker.png",
