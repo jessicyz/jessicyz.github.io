@@ -2,6 +2,12 @@
 {
     "doodles": [
 		{
+            "path": "assets/img/daily_doodle/20260609_BreadBag.png",
+            "date": "2026-06-09",
+            "title": "Bread Bag",
+            "comments": ""
+        },
+		{
             "path": "assets/img/daily_doodle/20260531_OrangePin.png",
             "date": "2026-05-31",
             "title": "Orange Pin",
