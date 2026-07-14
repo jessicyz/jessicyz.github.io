@@ -2,11 +2,18 @@
 {
     "doodles": [
 		{
-            "path": "assets/img/daily_doodle/20260709_ShinyNicketSticker.png",
+            "path": "assets/img/daily_doodle/20260714_ShinyNickitSticker.png",
+            "date": "2026-07-14",
+            "title": "Shiny Nickit Sticker",
+            "comments": ""
+        },
+		{
+            "path": "assets/img/daily_doodle/20260709_ShinyNickitSticker.png",
             "date": "2026-07-09",
-            "title": "Shiny Nicket Sticker",
+            "title": "Shiny Nickit Sticker",
             "comments": "In Pokemon Shuffle style"
-        },{
+        },
+		{
             "path": "assets/img/daily_doodle/20260609_BreadBag.png",
             "date": "2026-06-09",
             "title": "Bread Bag",
