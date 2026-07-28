@@ -100,6 +100,14 @@ redirect: false
         zoomable=true 
         %}
     </div>
+	
+	<div class="col-md-4 col-sm-4 mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/yarn_projects/chloeblanket.jpg" 
+        title="" 
+        class="gallery-portrait img-fluid rounded z-depth-1" 
+        zoomable=true 
+        %}
+    </div>
 
 </div>
 
