@@ -2,6 +2,12 @@
 {
     "doodles": [
 		{
+            "path": "assets/img/daily_doodle/20260806_ShinyGibleShuffleSticker.png",
+            "date": "2026-08-06",
+            "title": "Shiny Gible Sticker from Shuffle Sticker",
+            "comments": "From Pokemon Shuffle"
+        },
+		{
             "path": "assets/img/daily_doodle/20260714_ShinyNickitSticker.png",
             "date": "2026-07-14",
             "title": "Shiny Nickit Sticker",

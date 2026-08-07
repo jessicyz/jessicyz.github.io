@@ -117,7 +117,7 @@ redirect: false
 
     <div class="col-md-4 col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/yarn_projects/polarbear_hat.jpg" 
-            title="My pet chicken (crochet)" 
+            title="" 
             class="gallery img-fluid rounded z-depth-1" 
             zoomable=true 
         %}
