@@ -2,6 +2,12 @@
 {
     "doodles": [
 		{
+            "path": "assets/img/daily_doodle/20260810_AmmalCrackersAndAppyJuice.png",
+            "date": "2026-08-10",
+            "title": "Ammal Crackers and Appy Juice",
+            "comments": "Originally drawn as a joke addition to the Gible sticker"
+        },
+		{
             "path": "assets/img/daily_doodle/20260809_ShinyGibleSticker.png",
             "date": "2026-08-09",
             "title": "Shiny Gible Sticker",
