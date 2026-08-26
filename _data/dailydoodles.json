@@ -2,6 +2,12 @@
 {
     "doodles": [
 		{
+            "path": "assets/img/daily_doodle/20260825_PokemonXPPikachu.png",
+            "date": "2026-08-25",
+            "title": "Pokemon XP Pikachu",
+            "comments": ""
+        },
+		{
             "path": "assets/img/daily_doodle/20260810_AmmalCrackersAndAppyJuice.png",
             "date": "2026-08-10",
             "title": "Ammal Crackers and Appy Juice",
