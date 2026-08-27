@@ -2,6 +2,12 @@
 {
     "doodles": [
 		{
+            "path": "assets/img/daily_doodle/20260826_PokemonWorldsPikachu.png",
+            "date": "2026-08-26",
+            "title": "Pokemon Worlds Pikachu",
+            "comments": ""
+        },
+		{
             "path": "assets/img/daily_doodle/20260825_PokemonXPPikachu.png",
             "date": "2026-08-25",
             "title": "Pokemon XP Pikachu",
