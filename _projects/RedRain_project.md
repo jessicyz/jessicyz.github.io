@@ -23,6 +23,8 @@ permalink: /RedRain/
 
 An engineer for Red Rain, in collaboration with Small Loan Studio. Built using Solarus Lua
 
+<iframe frameborder="0" src="https://itch.io/embed/4257826?linkback=true&amp;bg_color=472f43&amp;fg_color=ded2d0&amp;link_color=d94e50&amp;border_color=de555a" width="552" height="167"><a href="https://smallloanstudio.itch.io/red-rain">Red Rain by Small Loan Studio</a></iframe>
+
 <div class="row mt-3">
     <div class="col-md-4 col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/project_images/redrain/RedRainCabin.jpg" 
